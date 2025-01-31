@@ -1,0 +1,13 @@
+[package]
+name = "wirekvs"
+version = "0.0.0"
+edition = "2021"
+description = "wirekvs"
+license = "MIT"
+homepage = "https://waradu.dev"
+repository = "https://github.com/Waradu/wirekvs-rs"
+readme = "README.md"
+authors = ["Waradu"]
+keywords = ["wirekvs", "kvs"]
+
+[dependencies]
