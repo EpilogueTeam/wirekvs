@@ -1,13 +1,13 @@
 [package]
 name = "wirekvs"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 description = "wirekvs"
 license = "MIT"
-homepage = "https://waradu.dev"
-repository = "https://github.com/Waradu/wirekvs-rs"
+homepage = "https://kvs.wireway.ch/"
+repository = "https://github.com/epilogueTeam/wirekvs-rs"
 readme = "README.md"
-authors = ["Waradu"]
+authors = ["Waradu", "0PandaDEV", "obvTiger"]
 keywords = ["wirekvs", "kvs"]
 
 [dependencies]
